@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓Artificial Intelligence student at SZABIST University<br>⚡ Currently in my 5th semester, expanding my expertise in AI development, machine learning, and intelligent systems.<br>🚀 Experienced in building custom GPTs, AI agents, automated workflows, database-driven applications, and IoT-based smart solutions.<br>🔰 Passionate about AI innovation, automation, and using technology to solve real-world problems.
+🎓Artificial Intelligence student at SZABIST University<br>⚡ Currently in my 7th semester, expanding my expertise in AI development, machine learning, and intelligent systems.<br>🚀 Experienced in building custom GPTs, AI agents, automated workflows, database-driven applications, and IoT-based smart solutions.<br>🔰 Passionate about AI innovation, automation, and using technology to solve real-world problems.
 
 
 ## 🌐 Socials:
